@@ -1,0 +1,5 @@
+﻿  计算器.cpp
+E:\cproject\计算器\计算器\计算器.cpp(47,12): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+E:\cproject\计算器\计算器\计算器.cpp(238,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\cproject\计算器\计算器\计算器.cpp(245,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  计算器.vcxproj -> E:\cproject\计算器\x64\Debug\计算器.exe
